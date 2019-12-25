@@ -1,0 +1,14 @@
+com\example\JV30_Spring_Boot_Book_API\model\Category.class
+com\example\JV30_Spring_Boot_Book_API\model\BookDetail.class
+com\example\JV30_Spring_Boot_Book_API\repository\CategoryRepository.class
+com\example\JV30_Spring_Boot_Book_API\service\BookService.class
+com\example\JV30_Spring_Boot_Book_API\repository\BookDetailRepository.class
+com\example\JV30_Spring_Boot_Book_API\utils\ConvertUtil.class
+com\example\JV30_Spring_Boot_Book_API\service\CategoryService.class
+com\example\JV30_Spring_Boot_Book_API\Jv30SpringBootBookApiApplication.class
+com\example\JV30_Spring_Boot_Book_API\model\Book.class
+com\example\JV30_Spring_Boot_Book_API\entities\CategoryEntity.class
+com\example\JV30_Spring_Boot_Book_API\api\BookApi.class
+com\example\JV30_Spring_Boot_Book_API\repository\BookRepository.class
+com\example\JV30_Spring_Boot_Book_API\entities\BookDetailEntity.class
+com\example\JV30_Spring_Boot_Book_API\entities\BookEntity.class
